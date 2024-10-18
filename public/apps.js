@@ -6,7 +6,7 @@ var apps = [
     image: 'https://games-and-stuff.vercel.app/assets/icons/canvas.jpg',
     description: 'This is the offical Games And Stuff drawing canvas. You can draw whatever you like, all in real-time so people can see what you\'re making. There are some rules though, which are, no drawing bad stuff and keep everything family freindly. Otherwize, have fun!'
   },
-  {
+/*  {
     id: 'youtube',
     title: 'Youtube',
     url: 'https://youtube.com',
@@ -19,7 +19,7 @@ var apps = [
     url: 'https://tiktok.com',
     image: 'https://sf-tb-sg.ibytedtos.com/obj/eden-sg/uhtyvueh7nulogpoguhm/tiktok-icon2.png',
     description: 'TikTok is a short-form video-sharing app that allows users to create and share 15-second to 10-minute videos. It is known for its viral dance challenges, lip-syncing videos, and comedy skits.'
-  },
+  }, */
   {
     id: 'discord',
     title: 'Discord',
@@ -34,11 +34,11 @@ var apps = [
     image: 'https://img.freepik.com/free-icon/search_318-265146.jpg',
     description: 'Google is an American multinational technology company that specializes in Internet-related services and products, which include online advertising technologies, a search engine, cloud computing, software, and hardware.'
   },
-  {
+/*  {
     id: 'netflix',
     title: 'Netflix',
     url: 'https://netflix.com',
     image: 'https://deadline.com/wp-content/uploads/2022/08/Netflix_Symbol_logo.jpg?w=500&h=500&crop=1',
     description: 'Netflix is a popular American entertainment company that provides streaming services for television shows, movies, and documentaries.'
-  }
+  } */
 ]
