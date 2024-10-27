@@ -1,10 +1,17 @@
-body[theme="main"] {
+body[theme="questionable"] {
     --text-color: #ffffff;
     --background: linear-gradient(to right, rgb(226, 31, 31), rgb(34, 51, 207));
     --navbar: #e22e2e;
     --accent: #ffffff;
     --scrollbar-track: #2233CF;
                     
+}
+body[theme="amoled"] {
+    --text-color: #ebebeb;
+    --background: #000000;
+    --navbar: #0f0f0f;
+    --accent: #ffffff;
+}
 }
 body[theme="amoled"] {
     --text-color: #ebebeb;
