@@ -13,7 +13,7 @@ body[theme="amoled"] {
     --accent: #ffffff;
 }
 }
-body[theme="amoled"] {
+body[theme="main"] {
     --text-color: #ebebeb;
     --background: #000000;
     --navbar: #0f0f0f;
